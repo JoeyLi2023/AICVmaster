@@ -221,7 +221,7 @@ function IconSend({ className, ...props }: React.ComponentProps<'svg'>) {
       className={cn('size-4', className)}
       {...props}
     >
-      <path d="M7 11L12 6L17 11M12 18V7"></path>
+      <path d="M7 11L12 6L17 11M12 18V7" />
     </svg>
   )
 }
