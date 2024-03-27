@@ -11,8 +11,8 @@ import { Toaster } from '@/components/ui/sonner'
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'AI CV',
-    template: `%s - AI CV`
+    default: 'CV Master',
+    template: `%s - AI CV writer`
   },
   description: 'AI help you to write CV.',
   icons: {
