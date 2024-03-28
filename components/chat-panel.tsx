@@ -36,25 +36,25 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What is your',
-      subheading: 'target occupation and industry?',
-      message: `What is your target occupation and industry?`
+      heading: '开始',
+      subheading: '你的简历问答之旅',
+      message: `开始`
     },
-    {
-      heading: 'Help me',
-      subheading: 'improve my resume',
-      message: 'Help me improve my resume'
-    },
-    {
-      heading: 'How to describe',
-      subheading: 'my management experience',
-      message: `How to describe my management experience`
-    },
-    {
-      heading: 'What aspects of your resume',
-      subheading: `would you like to optimiz?`,
-      message: `What aspects of your resume would you like to optimiz?`
-    }
+    // {
+    //   heading: 'Help me',
+    //   subheading: 'improve my resume',
+    //   message: 'Help me improve my resume'
+    // },
+    // {
+    //   heading: 'How to describe',
+    //   subheading: 'my management experience',
+    //   message: `How to describe my management experience`
+    // },
+    // {
+    //   heading: 'What aspects of your resume',
+    //   subheading: `would you like to optimiz?`,
+    //   message: `What aspects of your resume would you like to optimiz?`
+    // }
   ]
 
   return (
