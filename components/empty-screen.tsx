@@ -24,13 +24,14 @@ export function EmptyScreen() {
     <div className="mx-auto max-w-2xl px-4">
       <div className="flex flex-col gap-2 rounded-lg border bg-background p-8">
         <h1 className="text-lg font-semibold">
-          Welcome to CV master!
+          你好👋，我是CV master!
         </h1>
         <p className="leading-normal text-muted-foreground">
-          This is an AI chatbot app built to help you write cv.
+          我是一个帮助人们写简历的聊天工具。我会问你一些问题，以获取写简历所需的信息。
         </p>
         <p className="leading-normal text-muted-foreground">
-        AI will take you step by step through your history to help you write an attractive CV.
+        你可以点击下方的开始按钮，进入问答之旅。
+        回复“完成”，可以直接结束问答，开始生成简历。
         </p>
       </div>
     </div>
